@@ -1,0 +1,12 @@
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.data.deps.json
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.data.dll
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.data.pdb
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.csproj.AssemblyReference.cache
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.AssemblyInfoInputs.cache
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.AssemblyInfo.cs
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.csproj.CoreCompileInputs.cache
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.dll
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.data.dll
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.data.pdb
+C:\Users\jose\OneDrive\Documentos\BootcampNET\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.data.dll
