@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
+    "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
+    "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectUniqueName": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "projectName": "Discoteque.API",
-        "projectPath": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectPath": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\obj\\",
+        "outputPath": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -20,6 +20,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,27 +39,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[7.0.8, )"
             },
-            "Microsoft.EntityFrameworkCore.InMemory": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "target": "Package",
-              "version": "[7.0.7, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.7, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -73,6 +60,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

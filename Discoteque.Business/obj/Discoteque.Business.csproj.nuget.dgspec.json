@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {}
+    "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
+    "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
+        "projectUniqueName": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
         "projectName": "Discoteque.Business",
-        "projectPath": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
+        "projectPath": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj",
         "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\obj\\",
+        "outputPath": "c:\\Users\\jose\\OneDrive\\Documentos\\BootcampNET\\Discoteque\\Discoteque.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config"
