@@ -1,4 +1,4 @@
-﻿namespace Discoteque.data;
+﻿namespace Discoteque.Data;
 
 public class Class1
 {
